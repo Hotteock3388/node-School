@@ -1,1 +1,1 @@
-afqaroi8whf9ijkn 
+fs.writeFile()로 작성된 메소드
