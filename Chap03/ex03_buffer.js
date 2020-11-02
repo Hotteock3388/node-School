@@ -9,3 +9,4 @@ const array = [Buffer.from('버퍼 '), Buffer.from('시퀀스 '), Buffer.from('�
 
 const buffer2 = Buffer.concat(array);
 console.log('buffer2', buffer2.toString());
+
